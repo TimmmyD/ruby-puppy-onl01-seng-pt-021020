@@ -13,3 +13,5 @@ class Dog
       puts dog.name 
     end
   end
+  
+  def self 
